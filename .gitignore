@@ -1,0 +1,19 @@
+# System files
+Thumbs.db
+.DS_Store
+
+# Node modules and dependencies
+node_modules/
+*.log
+
+# Editor config files
+.vscode/
+.idea/
+*.code-workspace
+
+# Backup files
+*.swp
+*.zip
+
+# Local configuration
+lin-wp-install-plugins-config.txt
