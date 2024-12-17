@@ -1,0 +1,6 @@
+ # Klasyczny edytor WordPress
+classic-editor
+# Domyślna wtyczka Hello Dolly
+hello-dolly 
+# Integracja Mailchimp
+# mailchimp-for-wp 

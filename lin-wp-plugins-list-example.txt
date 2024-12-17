@@ -1,0 +1,38 @@
+# Yoast SEO - Optimize the website for search engines  
+wordpress-seo
+# Google Site Kit - Integrate Google Analytics, PageSpeed Insights, and Search Console  
+site-kit-by-google
+# Polylang - Manage multilingual content  
+polylang
+# Wordfence - Firewall and website security  
+wordfence
+# UpdraftPlus - Backup and restore website data  
+updraftplus
+# WP Rocket - Full performance optimization: caching, lazy load, minification  
+wp-rocket 
+# WP Smush - Image compression and optimization  
+wp-smushit
+# WPForms Lite - Simple contact form builder  
+wpforms-lite
+# Really Simple SSL - Automatically enable HTTPS  
+really-simple-ssl
+# WooCommerce - E-commerce functionality for online stores  
+woocommerce
+# Tutor LMS - Manage and deliver online courses  
+tutor
+# GiveWP - Donation management system  
+give
+# WooCommerce Stripe Payment Gateway - Stripe payment integration  
+woocommerce-gateway-stripe
+# MailerLite - Email marketing integration  
+official-mailerlite-sign-up-forms
+# Query Monitor - Monitor and debug website performance  
+query-monitor
+# WP Accessibility - Accessibility enhancements for visually impaired users  
+wp-accessibility
+# WP Dark Mode - Enable dark mode for better user experience  
+wp-dark-mode
+# Domain Mapping System - Map domains for WordPress Multisite  
+domain-mapping-system
+# FluentSMTP - Reliable SMTP email delivery for WordPress  
+fluent-smtp

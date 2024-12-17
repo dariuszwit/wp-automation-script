@@ -1,0 +1,22 @@
+# Path to the WordPress directory
+WP_PATH=/path/to/wordpress
+
+# Database configuration
+# Database name
+DB_NAME=example_db  
+# Database username           
+DB_USER=example_user      
+# Database user password     
+DB_PASSWORD=example_password 
+# Database host (e.g., localhost)  
+DB_HOST=localhost              
+
+# WordPress admin user configuration
+# WordPress admin username
+# WP_ADMINS=admin1:password1:email1@example.com,admin2:password2:email2@example.com
+WP_ADMINS=admin1:password1:email1@example.com,admin2:password2:email2@example.com
+
+# Path to plugin lists
+PLUGINS_FILE=lin-wp-plugins-list.txt
+TO_UNINSTALL_FILE=lin-wp-plugins-to-uninstall.txt
+
