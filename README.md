@@ -1,3 +1,7 @@
+## Support Me
+If you find this script useful, you can support me here:
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-yellow)](https://buymeacoffee.com/dariuszwit)
+
 # WordPress Installation and Configuration Script
 
 This script automates the process of installing WordPress, adding themes, managing plugins, and creating multiple administrator users. It leverages WP-CLI for interacting with WordPress.
